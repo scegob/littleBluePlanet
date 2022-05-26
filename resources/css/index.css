@@ -1,0 +1,126 @@
+.navbar {
+    position: fixed;
+    background-color: white;
+    top: 0;
+    width: 100%;
+    color: white;
+    
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 0 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: black;
+}
+
+.banner {
+    background-color: #4d0ff4 ;
+    color: white;
+    margin-top: 50px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+#small-earth {
+    height: 100px;
+    width: 100px;
+    filter: drop-shadow(1px 1px 1px white);
+}
+
+.planet-section {
+    padding: 20px 50px;
+}
+
+#little-blue-planet {
+    color: #4d0ff4;
+    font-size: 100px;
+}
+
+.avatar {
+    background-image: url(../images/yCPyoZDQBBcXikqxkeW2jJ-1200-80.jpg);
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.biggerAvatar {
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    display: inline-block;
+    padding: 0 600px;
+}
+
+.middleAvatar {
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.bold {
+    font-weight: 900;
+}
+
+a.blue {
+    color: blue;
+}
+
+.avatar-ul {
+    list-style: none;
+}
+
+#white-space {
+    padding: 10px;
+}
+
+.padding h1 {
+    padding: 40px;
+    background-color: #4d0ff4;
+    color: #ffff;
+}
+
+.images {
+    border-radius: 25% 10%;
+    height: 250px;
+    width: 250px;
+    filter: drop-shadow(10px 10px 10px #000);
+    padding: 55px;
+}
+
+.thumbsUp {
+    height: 50px;
+    width: 60px;
+}
+
+.imagesPeople {
+    border-radius: 10% 10%;
+    height: 250px;
+    width: 250px;
+    padding: 0 600px;
+    filter: drop-shadow(5px 5px 5px #000);
+}
+
+.imageAlign {
+    border-radius: 10% 10%;
+    height: 700px;
+    width: 700px;
+    padding: 0 400px;
+}
+
+.leftPadding {
+    padding: 0 0 0 400px;
+}
+
+.leftPadding p {
+    padding: 0 0 0 800px;
+}
